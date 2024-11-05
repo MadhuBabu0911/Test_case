@@ -1,0 +1,101 @@
+Date,Customer ID,Feedback Channel,Rating,Comment,Sentiment
+2024-10-28,C00029,Email,5,I am very happy with the product!,Positive
+2024-10-27,C00090,Survey,2,Will definitely recommend!,Neutral
+2024-10-12,C00071,Social Media,4,Not worth the price.,Negative
+2024-10-13,C00070,Survey,5,Could improve product quality.,Neutral
+2024-10-20,C00085,Survey,3,I am very happy with the product!,Positive
+2024-10-10,C00079,Email,1,Not worth the price.,Negative
+2024-10-20,C00058,Email,5,Not worth the price.,Negative
+2024-10-14,C00076,Survey,1,Delivery was late.,Negative
+2024-11-05,C00001,Email,2,The service was great!,Positive
+2024-10-11,C00061,Survey,4,Customer support was helpful.,Neutral
+2024-10-28,C00069,Social Media,5,Not worth the price.,Negative
+2024-10-28,C00095,Survey,5,Delivery was late.,Negative
+2024-10-28,C00040,Survey,2,Will definitely recommend!,Neutral
+2024-10-28,C00065,Social Media,4,Satisfactory experience.,Neutral
+2024-10-19,C00064,Email,2,Could improve product quality.,Neutral
+2024-10-16,C00094,Email,1,Could improve product quality.,Neutral
+2024-10-21,C00080,Email,3,Delivery was late.,Negative
+2024-11-02,C00049,Social Media,3,Not worth the price.,Negative
+2024-10-10,C00046,Survey,3,Delivery was late.,Negative
+2024-10-06,C00072,Survey,3,Could improve product quality.,Neutral
+2024-10-20,C00062,Email,4,The service was great!,Positive
+2024-10-29,C00089,Survey,4,I am very happy with the product!,Positive
+2024-11-05,C00006,Survey,3,Customer support was helpful.,Neutral
+2024-11-03,C00013,Social Media,2,Could improve product quality.,Neutral
+2024-10-29,C00011,Social Media,1,Could improve product quality.,Neutral
+2024-10-15,C00062,Email,4,Could improve product quality.,Neutral
+2024-10-08,C00007,Survey,5,Could improve product quality.,Neutral
+2024-10-28,C00077,Survey,3,Not worth the price.,Negative
+2024-10-21,C00009,Social Media,3,Satisfactory experience.,Neutral
+2024-10-22,C00018,Social Media,1,Will definitely recommend!,Neutral
+2024-10-18,C00008,Survey,5,Could improve product quality.,Neutral
+2024-10-19,C00059,Email,3,Satisfactory experience.,Neutral
+2024-10-21,C00096,Social Media,1,I am very happy with the product!,Positive
+2024-10-07,C00025,Survey,5,Satisfactory experience.,Neutral
+2024-10-28,C00043,Email,1,Satisfactory experience.,Neutral
+2024-10-27,C00093,Social Media,3,The service was great!,Positive
+2024-10-20,C00055,Social Media,1,Satisfactory experience.,Neutral
+2024-10-31,C00051,Survey,1,I am very happy with the product!,Positive
+2024-10-07,C00000,Email,3,Could improve product quality.,Neutral
+2024-11-04,C00080,Survey,4,The service was great!,Positive
+2024-10-28,C00051,Social Media,5,Not worth the price.,Negative
+2024-10-14,C00088,Social Media,1,Could improve product quality.,Neutral
+2024-10-29,C00066,Email,3,Will definitely recommend!,Neutral
+2024-11-02,C00001,Email,1,I am very happy with the product!,Positive
+2024-10-30,C00062,Survey,5,The service was great!,Positive
+2024-10-10,C00073,Email,2,Customer support was helpful.,Neutral
+2024-10-16,C00007,Social Media,5,Could improve product quality.,Neutral
+2024-10-22,C00067,Survey,2,Customer support was helpful.,Neutral
+2024-10-13,C00008,Email,3,Will definitely recommend!,Neutral
+2024-10-29,C00077,Survey,3,Could improve product quality.,Neutral
+2024-10-29,C00045,Social Media,5,Will definitely recommend!,Neutral
+2024-10-21,C00092,Email,4,Could improve product quality.,Neutral
+2024-10-21,C00062,Email,3,Delivery was late.,Negative
+2024-10-31,C00006,Social Media,1,Not worth the price.,Negative
+2024-11-03,C00059,Social Media,1,The service was great!,Positive
+2024-10-31,C00079,Email,3,Customer support was helpful.,Neutral
+2024-10-18,C00000,Email,3,Satisfactory experience.,Neutral
+2024-11-02,C00079,Social Media,5,Delivery was late.,Negative
+2024-10-20,C00059,Survey,2,Delivery was late.,Negative
+2024-10-31,C00055,Survey,3,Could improve product quality.,Neutral
+2024-10-24,C00094,Social Media,5,I am very happy with the product!,Positive
+2024-10-27,C00085,Email,2,Customer support was helpful.,Neutral
+2024-10-29,C00056,Survey,1,Could improve product quality.,Neutral
+2024-11-01,C00074,Email,1,The service was great!,Positive
+2024-10-10,C00046,Survey,1,Will definitely recommend!,Neutral
+2024-10-30,C00024,Survey,5,Could improve product quality.,Neutral
+2024-10-27,C00032,Survey,3,Satisfactory experience.,Neutral
+2024-10-28,C00098,Social Media,3,Delivery was late.,Negative
+2024-10-15,C00088,Survey,4,I am very happy with the product!,Positive
+2024-10-30,C00045,Social Media,5,Will definitely recommend!,Neutral
+2024-10-14,C00029,Social Media,3,Customer support was helpful.,Neutral
+2024-10-13,C00061,Survey,3,Delivery was late.,Negative
+2024-10-17,C00080,Email,3,I am very happy with the product!,Positive
+2024-10-21,C00084,Email,5,Delivery was late.,Negative
+2024-10-17,C00067,Email,3,Not worth the price.,Negative
+2024-11-03,C00031,Survey,4,Customer support was helpful.,Neutral
+2024-10-28,C00003,Email,4,The service was great!,Positive
+2024-10-07,C00095,Survey,1,The service was great!,Positive
+2024-11-02,C00079,Email,4,I am very happy with the product!,Positive
+2024-10-17,C00004,Social Media,4,Satisfactory experience.,Neutral
+2024-10-18,C00001,Email,2,Could improve product quality.,Neutral
+2024-10-10,C00041,Social Media,2,Customer support was helpful.,Neutral
+2024-10-13,C00072,Email,2,Delivery was late.,Negative
+2024-10-19,C00096,Survey,1,Satisfactory experience.,Neutral
+2024-11-03,C00091,Social Media,3,Delivery was late.,Negative
+2024-10-09,C00068,Email,3,Not worth the price.,Negative
+2024-10-13,C00097,Email,4,Delivery was late.,Negative
+2024-10-29,C00056,Survey,5,The service was great!,Positive
+2024-10-07,C00011,Survey,3,I am very happy with the product!,Positive
+2024-10-24,C00058,Email,4,Satisfactory experience.,Neutral
+2024-11-03,C00080,Email,3,Not worth the price.,Negative
+2024-11-01,C00039,Social Media,2,Will definitely recommend!,Neutral
+2024-10-29,C00044,Survey,4,Satisfactory experience.,Neutral
+2024-11-03,C00009,Social Media,1,The service was great!,Positive
+2024-10-11,C00036,Email,2,I am very happy with the product!,Positive
+2024-10-25,C00078,Survey,1,Customer support was helpful.,Neutral
+2024-10-06,C00070,Social Media,3,I am very happy with the product!,Positive
+2024-10-06,C00072,Social Media,4,Satisfactory experience.,Neutral
+2024-10-17,C00096,Survey,4,The service was great!,Positive
+2024-10-24,C00063,Survey,2,The service was great!,Positive
